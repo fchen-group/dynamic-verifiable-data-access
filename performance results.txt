@@ -1,0 +1,119 @@
+Intel Core i7 3.6GHz 8G RAM 64bit OS
+
+************************************************************
+
+TEST CASE: D:\test\files\test1
+
+storage is: 134728Bytes
+time is: (ns)
+6211800    18005    18812    5262    78670    60440    52490    55777    
+correspoding to outsource (0), query(1), search existing(2), search nonexisting(3), verify existing(4), verify nonexisting(5), delete(6), add(7)
+Statistic about the number of collisons for existing files are as follows:
+The minimal value is: 1
+The maximal value is: 1
+The average value is: 1.0
+Statistic about the number of collisons for non-existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.025
+communication cost for querying an existing file is: 936
+communication cost for querying a non-existing file is: 951
+
+************************************************************
+
+TEST CASE: D:\test\files\test2
+
+storage is: 964648Bytes
+time is: (ns)
+19648900    15800    23075    6282    48622    22065    39060    35390    
+correspoding to outsource (0), query(1), search existing(2), search nonexisting(3), verify existing(4), verify nonexisting(5), delete(6), add(7)
+Statistic about the number of collisons for existing files are as follows:
+The minimal value is: 1
+The maximal value is: 1
+The average value is: 1.0
+Statistic about the number of collisons for non-existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.025
+communication cost for querying an existing file is: 1352
+communication cost for querying a non-existing file is: 1378
+
+************************************************************
+
+TEST CASE: D:\test\files\test3
+
+storage is: 1764688Bytes
+time is: (ns)
+29909400    10035    21445    4865    67512    18365    20592    20852    
+correspoding to outsource (0), query(1), search existing(2), search nonexisting(3), verify existing(4), verify nonexisting(5), delete(6), add(7)
+Statistic about the number of collisons for existing files are as follows:
+The minimal value is: 1
+The maximal value is: 1
+The average value is: 1.0
+Statistic about the number of collisons for non-existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.075
+communication cost for querying an existing file is: 1456
+communication cost for querying a non-existing file is: 1540
+
+************************************************************
+
+TEST CASE: D:\test\files\test4
+
+storage is: 1693816Bytes
+time is: (ns)
+34481800    12397    58450    3965    30630    14055    19917    19192    
+correspoding to outsource (0), query(1), search existing(2), search nonexisting(3), verify existing(4), verify nonexisting(5), delete(6), add(7)
+Statistic about the number of collisons for existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.025
+Statistic about the number of collisons for non-existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.025
+communication cost for querying an existing file is: 1591
+communication cost for querying a non-existing file is: 1586
+
+************************************************************
+
+TEST CASE: D:\test\files\test5
+
+storage is: 1360496Bytes
+time is: (ns)
+55317600    7885    22232    3735    26870    18062    18602    17665    
+correspoding to outsource (0), query(1), search existing(2), search nonexisting(3), verify existing(4), verify nonexisting(5), delete(6), add(7)
+Statistic about the number of collisons for existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.025
+Statistic about the number of collisons for non-existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.05
+communication cost for querying an existing file is: 1698
+communication cost for querying a non-existing file is: 1722
+
+************************************************************
+
+TEST CASE: D:\test\files\test6
+
+storage is: 964648Bytes
+time is: (ns)
+20799900    18272    24320    4895    63295    22515    42085    42352    
+correspoding to outsource (0), query(1), search existing(2), search nonexisting(3), verify existing(4), verify nonexisting(5), delete(6), add(7)
+Statistic about the number of collisons for existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.125
+Statistic about the number of collisons for non-existing files are as follows:
+The minimal value is: 1
+The maximal value is: 2
+The average value is: 1.025
+communication cost for querying an existing file is: 1461
+communication cost for querying a non-existing file is: 1373
+
+
+
+

@@ -1,0 +1,53 @@
+**********************************************************************
+TEST CASE: D:\test\files\test1
+total security levels: 1
+
+storage is: 82632Bytes
+time is: (ns)
+18966000    61760    13172    26915    
+correspoding to outsource, query, search, verify
+
+**********************************************************************
+TEST CASE: D:\test\files\test2
+total security levels: 11
+
+storage is: 2908840Bytes
+time is: (ns)
+140146900    55192    15185    19437    
+correspoding to outsource, query, search, verify
+
+**********************************************************************
+TEST CASE: D:\test\files\test3
+total security levels: 22
+
+storage is: 5744040Bytes
+time is: (ns)
+190589500    54112    16322    20157    
+correspoding to outsource, query, search, verify
+
+**********************************************************************
+TEST CASE: D:\test\files\test4
+total security levels: 44
+
+storage is: 11890672Bytes
+time is: (ns)
+334784300    16735    16257    19895    
+correspoding to outsource, query, search, verify
+
+**********************************************************************
+TEST CASE: D:\test\files\test5
+total security levels: 86
+
+storage is: 23595592Bytes
+time is: (ns)
+650216500    16052    268362    17870    
+correspoding to outsource, query, search, verify
+
+**********************************************************************
+TEST CASE: D:\test\files\test6
+total security levels: 19
+
+storage is: 7946448Bytes
+time is: (ns)
+203051900    23017    12565    11612    
+correspoding to outsource, query, search, verify
