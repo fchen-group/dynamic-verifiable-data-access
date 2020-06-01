@@ -1,9 +1,9 @@
 # Dynamic Verifiable Data Access
-Consider the following cloud storage security problem: A user outsources his/her data to a cloud and later frequently updates the data by adding new data items and deleting existing ones. When the user requests a data item from the cloud, what if the cloud claims that the data item does not exist while in fact it does exist? This could happen due to cloud management issues, hardware/software failures, hackers, or economic incentives like saving cloud's operation costs. The ability to confirm the data existence/non-existence when accessing a data item on the cloud is referred to as *verifiable data access*.
+Consider the following cloud storage security problem: A user outsources his/her data to a cloud and later frequently updates the data by adding new data items and deleting existing ones. When the user requests a data item from the cloud, what if the cloud claims that the data item does not exist while in fact it does exist? This could happen due to cloud management issues, hardware/software failures, hackers, or economic incentives like saving cloud's operation costs. The ability to confirm the data existence/non-existence when accessing a data item on the cloud is referred to as *dynamic verifiable data access*.
 
 ![model](model.png)
 
-The code here implements and evluates a dynamic verifiable data access protocol that supports dynamic data search and that is also efficient for practical usage.
+The code here implements and evluates a dynamic verifiable data access protocol that supports search result verifiability and dynamic data search. Experimental results show potentials for practical usage.
 
 ## Build
 
